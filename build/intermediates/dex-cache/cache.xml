@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="C:\Users\user\Desktop\FirebaseAuth\app\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\23.4.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="c2c594cace5d83a3227b2b6e658ecbfd586d3ed9">
+        <dex dex="C:\Users\user\Desktop\FirebaseAuth\app\build\intermediates\pre-dexed\debug\com.android.support-support-vector-drawable-23.4.0_f66992dcdc1948e5f98a9894560200698e40a83d.jar" />
+    </item>
+    <item
+        jar="C:\Users\user\Desktop\FirebaseAuth\app\build\intermediates\exploded-aar\com.google.firebase\firebase-common\9.0.2\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="9919563cffd8e3732e944d3c437d4b9575a08448">
+        <dex dex="C:\Users\user\Desktop\FirebaseAuth\app\build\intermediates\pre-dexed\debug\com.google.firebase-firebase-common-9.0.2_181ab686381003973fbea07acab432de6ee719e8.jar" />
+    </item>
+    <item
+        jar="C:\Users\user\Desktop\FirebaseAuth\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-basement\9.0.2\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="4022261eeea0d92eb2997a68d2c1f084a16abad9">
+        <dex dex="C:\Users\user\Desktop\FirebaseAuth\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-basement-9.0.2_14e8d2a9e6e4f2e88757489d3836092806849ac4.jar" />
+    </item>
+    <item
+        jar="C:\Users\user\Desktop\FirebaseAuth\app\build\intermediates\exploded-aar\com.google.firebase\firebase-analytics\9.0.2\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="51a11c41a08f099a204e1b8dcc04f27217de50ec">
+        <dex dex="C:\Users\user\Desktop\FirebaseAuth\app\build\intermediates\pre-dexed\debug\com.google.firebase-firebase-analytics-9.0.2_d7af407375d0bad5e2ca6249401992d7a7138d9a.jar" />
+    </item>
+    <item
+        jar="C:\Users\user\Desktop\FirebaseAuth\app\build\intermediates\exploded-aar\com.google.firebase\firebase-auth-module\9.0.2\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="79e298d7fed2fcada58da7032d07d34ee198a545">
+        <dex dex="C:\Users\user\Desktop\FirebaseAuth\app\build\intermediates\pre-dexed\debug\com.google.firebase-firebase-auth-module-9.0.2_c6041abc11d569ea5ccad4f6b2b6f480273b4a0c.jar" />
+    </item>
+    <item
+        jar="C:\Users\user\Desktop\FirebaseAuth\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.4.0\jars\libs\internal_impl-23.4.0.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="ea3c07504d2c8f4b13aa17c45c1b68ed9c1c3674">
+        <dex dex="C:\Users\user\Desktop\FirebaseAuth\app\build\intermediates\pre-dexed\debug\internal_impl-23.4.0_d8690f9acf8b418072b69a0ee34115dd465f1bf7.jar" />
+    </item>
+    <item
+        jar="C:\Users\user\Desktop\FirebaseAuth\app\build\intermediates\exploded-aar\com.google.firebase\firebase-auth\9.0.2\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="fa472b7cbd3897bf6bed6068ac0b00e494987688">
+        <dex dex="C:\Users\user\Desktop\FirebaseAuth\app\build\intermediates\pre-dexed\debug\com.google.firebase-firebase-auth-9.0.2_f6ff29aa67ef526015e081e5c3b9ea79d85bc132.jar" />
+    </item>
+    <item
+        jar="C:\Users\user\Desktop\FirebaseAuth\app\build\intermediates\exploded-aar\com.google.firebase\firebase-iid\9.0.2\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="b3d0809a742c5f768c6aa9efc6decd5c1d6cd227">
+        <dex dex="C:\Users\user\Desktop\FirebaseAuth\app\build\intermediates\pre-dexed\debug\com.google.firebase-firebase-iid-9.0.2_66102f78ec28ce151a3106ab0e91d21f75347a1d.jar" />
+    </item>
+    <item
+        jar="C:\Users\user\Desktop\FirebaseAuth\app\build\intermediates\exploded-aar\com.google.firebase\firebase-auth-common\9.0.2\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="568d5bda0b4d51f90d978ace369bb9ad024d2057">
+        <dex dex="C:\Users\user\Desktop\FirebaseAuth\app\build\intermediates\pre-dexed\debug\com.google.firebase-firebase-auth-common-9.0.2_6e0bf5107873747b8c7a3fe2847d9b24a8630126.jar" />
+    </item>
+    <item
+        jar="C:\Users\user\Desktop\FirebaseAuth\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.4.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="67bd36ee9340ec7c254108936ad16b24bed160cc">
+        <dex dex="C:\Users\user\Desktop\FirebaseAuth\app\build\intermediates\pre-dexed\debug\com.android.support-support-v4-23.4.0_61fef09f63237949f758b9d046b4a8c87a121402.jar" />
+    </item>
+    <item
+        jar="C:\Users\user\Desktop\FirebaseAuth\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-tasks\9.0.2\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="aec1bc54964a85d851c2c1b1cb7f90f7dbd755ab">
+        <dex dex="C:\Users\user\Desktop\FirebaseAuth\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-tasks-9.0.2_afd2ab8d9cfb1862d1225912889211cde9fc6599.jar" />
+    </item>
+    <item
+        jar="C:\Users\user\Desktop\FirebaseAuth\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-base\9.0.2\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="94d9cedd04b124aed044ac71c451a292856d854c">
+        <dex dex="C:\Users\user\Desktop\FirebaseAuth\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-base-9.0.2_dce2696584996763bf0d499dfdea56999cba68cf.jar" />
+    </item>
+    <item
+        jar="C:\Users\user\Desktop\FirebaseAuth\app\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\23.4.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="de4db3785756bfb0915a9f59a9b3f2fea7407be4">
+        <dex dex="C:\Users\user\Desktop\FirebaseAuth\app\build\intermediates\pre-dexed\debug\com.android.support-animated-vector-drawable-23.4.0_ac5bb5d99c53631f5fcc29706a19fa665e070743.jar" />
+    </item>
+    <item
+        jar="C:\Users\user\Desktop\FirebaseAuth\app\build\intermediates\exploded-aar\com.android.support\recyclerview-v7\23.4.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="ec75036c3c52e451d0cde50a5aedaf5fd32354a0">
+        <dex dex="C:\Users\user\Desktop\FirebaseAuth\app\build\intermediates\pre-dexed\debug\com.android.support-recyclerview-v7-23.4.0_4e6eb47e552c9612471f8260d89c57203555da69.jar" />
+    </item>
+    <item
+        jar="C:\Users\user\Desktop\FirebaseAuth\app\build\intermediates\exploded-aar\com.android.support\design\23.4.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="5326d9a850d491714fef8cbfaa9ea3416f0bf0d2">
+        <dex dex="C:\Users\user\Desktop\FirebaseAuth\app\build\intermediates\pre-dexed\debug\com.android.support-design-23.4.0_3168b1fd43d0f7d9df9513ff676216907148df59.jar" />
+    </item>
+    <item
+        jar="C:\Users\user\Desktop\FirebaseAuth\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\23.4.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="548f06de403a9409f00554b3ee12a9fdea0e236c">
+        <dex dex="C:\Users\user\Desktop\FirebaseAuth\app\build\intermediates\pre-dexed\debug\com.android.support-appcompat-v7-23.4.0_7871ab3e5ea9729acf275ff80b4e6dd1a0bc27dc.jar" />
+    </item>
+    <item
+        jar="D:\AndroidSDK\extras\android\m2repository\com\android\support\support-annotations\23.4.0\support-annotations-23.4.0.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="ffbe55fdb2bb456b1485831706a9eac3300bb6b8">
+        <dex dex="C:\Users\user\Desktop\FirebaseAuth\app\build\intermediates\pre-dexed\debug\support-annotations-23.4.0_6d851d9a3cbbe5d1dac573180ea50da442a0ff00.jar" />
+    </item>
+    <item
+        jar="C:\Users\user\Desktop\FirebaseAuth\app\build\intermediates\exploded-aar\com.google.firebase\firebase-analytics-impl\9.0.2\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="a511c684ea4c2cf31a3377d51e7677cb76696e07">
+        <dex dex="C:\Users\user\Desktop\FirebaseAuth\app\build\intermediates\pre-dexed\debug\com.google.firebase-firebase-analytics-impl-9.0.2_57a9a370cc7f3c859b459397c5cd35d154b75f33.jar" />
+    </item>
+
+</items>
